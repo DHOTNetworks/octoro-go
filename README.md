@@ -1,4 +1,4 @@
-#OCTORO Consensus (HBBFT in Golang) for Kryle Protocol
+&OCTORO Consensus (HBBFT in Golang) for Kryle Protocol
 Golang Implementation of HoneyBadgerBFT to be Compatible with Ethereum Protocol and EVM-compatible for Interoperability.
 
 Aiming to Achieve More Security, Faster Throughput and Scalability
